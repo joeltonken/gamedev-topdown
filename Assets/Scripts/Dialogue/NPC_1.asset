@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec666c479eee75e46b62156c5a130a5d, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 7136440295395326683, guid: f145ebf19e75dce49a97a929ac6ad06b, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Sheyla
+    profile: {fileID: 21300000, guid: eb572d16a5b375b43b25ba242df5fb4e, type: 3}
+    sentence:
+      portuguese: Oi, tudo bem?
+      english: Hi
+      spanish: Hola
+  - actorName: Manoelzin
+    profile: {fileID: 3774113280150707286, guid: 3ddf1036ec2ed8446aef8f7c577d143c, type: 3}
+    sentence:
+      portuguese: "Melhor agora falando com voc\xEA, princesa."
+      english: How are yoy?
+      spanish: Hola que tal?
+  - actorName: Sheyla
+    profile: {fileID: 21300000, guid: eb572d16a5b375b43b25ba242df5fb4e, type: 3}
+    sentence:
+      portuguese: "A\xED papai, apaixonei."
+      english: How are yoy?
+      spanish: Hola que tal?
+  - actorName: Manoelzin
+    profile: {fileID: 3774113280150707286, guid: 3ddf1036ec2ed8446aef8f7c577d143c, type: 3}
+    sentence:
+      portuguese: "Jogo the witcher e mato drag\xE3o. Fica comigo? Sim ou n\xE3o?"
+      english: 
+      spanish: 
+  - actorName: Sheyla
+    profile: {fileID: 21300000, guid: eb572d16a5b375b43b25ba242df5fb4e, type: 3}
+    sentence:
+      portuguese: SIMMMMMMMM!
+      english: 
+      spanish: 

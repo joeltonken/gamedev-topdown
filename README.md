@@ -24,3 +24,18 @@ Aqui estão as informações essenciais para aproveitar ao máximo o jogo.
 ## Objetivo do Jogo
 
 Seu objetivo é explorar o mundo. Enfrente inimigos, colete recursos e torne-se um herói no universo desse RPG.
+
+## Como Iniciar o Jogo
+
+1. **Clone ou Baixe o Repositório:**
+   - Clone o repositório usando `git clone https://github.com/joeltonken/gamedev-topdown.git` ou baixe o ZIP diretamente.
+
+2. **Abra o Projeto na Unity:**
+   - Abra a Unity Hub.
+   - Clique em "Add" e selecione a pasta do projeto clonado/baixado.
+
+3. **Configure a Versão da Unity:**
+   - Certifique-se de que a versão da Unity está configurada para 2020.1.3f1.
+
+4. **Execute o Jogo:**
+   - Abra a cena principal e clique em "Play" para começar a jogar.
